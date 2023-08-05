@@ -1,0 +1,710 @@
+/* 'Graphik Arabic' */
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-Thin.eot');
+    src: url('graphik/GraphikArabic-Thin.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-Thin.woff2') format('woff2'),
+        url('graphik/GraphikArabic-Thin.woff') format('woff'),
+        url('graphik/GraphikArabic-Thin.svg#GraphikArabic-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-ExtraLight.eot');
+    src: url('graphik/GraphikArabic-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-ExtraLight.woff2') format('woff2'),
+        url('graphik/GraphikArabic-ExtraLight.woff') format('woff'),
+        url('graphik/GraphikArabic-ExtraLight.svg#GraphikArabic-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-Light.eot');
+    src: url('graphik/GraphikArabic-Light.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-Light.woff2') format('woff2'),
+        url('graphik/GraphikArabic-Light.woff') format('woff'),
+        url('graphik/GraphikArabic-Light.svg#GraphikArabic-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-Regular.eot');
+    src: url('graphik/GraphikArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-Regular.woff2') format('woff2'),
+        url('graphik/GraphikArabic-Regular.woff') format('woff'),
+        url('graphik/GraphikArabic-Regular.svg#GraphikArabic-Regular') format('svg');
+    font-weight: normal, 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-Medium.eot');
+    src: url('graphik/GraphikArabic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-Medium.woff2') format('woff2'),
+        url('graphik/GraphikArabic-Medium.woff') format('woff'),
+        url('graphik/GraphikArabic-Medium.svg#GraphikArabic-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-SemiBold.eot');
+    src: url('graphik/GraphikArabic-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-SemiBold.woff2') format('woff2'),
+        url('graphik/GraphikArabic-SemiBold.woff') format('woff'),
+        url('graphik/GraphikArabic-SemiBold.svg#GraphikArabic-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-Bold.eot');
+    src: url('graphik/GraphikArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-Bold.woff2') format('woff2'),
+        url('graphik/GraphikArabic-Bold.woff') format('woff'),
+        url('graphik/GraphikArabic-Bold.svg#GraphikArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Arabic';
+    src: url('graphik/GraphikArabic-Black.eot');
+    src: url('graphik/GraphikArabic-Black.eot?#iefix') format('embedded-opentype'),
+        url('graphik/GraphikArabic-Black.woff2') format('woff2'),
+        url('graphik/GraphikArabic-Black.woff') format('woff'),
+        url('graphik/GraphikArabic-Black.svg#GraphikArabic-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'Somar' */
+@font-face {
+    font-family: 'Somar';
+    src: url('somar/Somar-Thin.woff2') format('woff2'),
+        url('somar/Somar-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Somar';
+    src: url('somar/Somar-Light.woff2') format('woff2'),
+        url('somar/Somar-Light.woff') format('woff');
+    font-weight: 200, 300, 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Somar';
+    src: url('somar/Somar-Medium.woff2') format('woff2'),
+        url('somar/Somar-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Somar';
+    src: url('somar/Somar-SemiBold.woff2') format('woff2'),
+        url('somar/Somar-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Somar';
+    src: url('somar/Somar-Regular.woff2') format('woff2'),
+        url('somar/Somar-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Somar';
+    src: url('somar/Somar-Bold.woff2') format('woff2'),
+        url('somar/Somar-Bold.woff') format('woff');
+    font-weight: bold, 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'SST Arabic' */
+@font-face {
+    font-family: 'SST Arabic';
+    src: url('sst/SSTArabic-Light.eot');
+    src: url('sst/SSTArabic-Light.eot?#iefix') format('embedded-opentype'),
+        url('sst/SSTArabic-Light.woff2') format('woff2'),
+        url('sst/SSTArabic-Light.woff') format('woff'),
+        url('sst/SSTArabic-Light.svg#SSTArabic-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SST Arabic';
+    src: url('sst/SSTArabic-Medium.eot');
+    src: url('sst/SSTArabic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('sst/SSTArabic-Medium.woff2') format('woff2'),
+        url('sst/SSTArabic-Medium.woff') format('woff'),
+        url('sst/SSTArabic-Medium.svg#SSTArabic-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SST Arabic';
+    src: url('sst/SSTArabic-Roman.eot');
+    src: url('sst/SSTArabic-Roman.eot?#iefix') format('embedded-opentype'),
+        url('sst/SSTArabic-Roman.woff2') format('woff2'),
+        url('sst/SSTArabic-Roman.woff') format('woff'),
+        url('sst/SSTArabic-Roman.svg#SSTArabic-Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SST Arabic';
+    src: url('sst/SSTArabic-Bold.eot');
+    src: url('sst/SSTArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('sst/SSTArabic-Bold.woff2') format('woff2'),
+        url('sst/SSTArabic-Bold.woff') format('woff'),
+        url('sst/SSTArabic-Bold.svg#SSTArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'FF Shamel Rounded' */
+@font-face {
+    font-family: 'FF Shamel Rounded';
+    src: url('Shamel/FFShamelRounded-Light.eot');
+    src: url('Shamel/FFShamelRounded-Light.eot?#iefix') format('embedded-opentype'),
+        url('Shamel/FFShamelRounded-Light.woff2') format('woff2'),
+        url('Shamel/FFShamelRounded-Light.woff') format('woff'),
+        url('Shamel/FFShamelRounded-Light.svg#FFShamelRounded-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FF Shamel Rounded';
+    src: url('Shamel/FFShamelRounded-Medium.eot');
+    src: url('Shamel/FFShamelRounded-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Shamel/FFShamelRounded-Medium.woff2') format('woff2'),
+        url('Shamel/FFShamelRounded-Medium.woff') format('woff'),
+        url('Shamel/FFShamelRounded-Medium.svg#FFShamelRounded-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'Uber Move Text AR' */
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('uber/UberMoveTextAR-Regular.eot');
+    src: local('Uber Move Text AR Regular'), local('UberMoveTextAR-Regular'),
+        url('uber/UberMoveTextAR-Regular.eot?#iefix') format('embedded-opentype'),
+        url('uber/UberMoveTextAR-Regular.woff2') format('woff2'),
+        url('uber/UberMoveTextAR-Regular.woff') format('woff'),
+        url('uber/UberMoveTextAR-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('uber/UberMoveTextAR-Medium.eot');
+    src: local('Uber Move Text AR Medium'), local('UberMoveTextAR-Medium'),
+        url('uber/UberMoveTextAR-Medium.eot?#iefix') format('embedded-opentype'),
+        url('uber/UberMoveTextAR-Medium.woff2') format('woff2'),
+        url('uber/UberMoveTextAR-Medium.woff') format('woff'),
+        url('uber/UberMoveTextAR-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('uber/UberMoveTextAR-Light.eot');
+    src: local('Uber Move Text AR Light'), local('UberMoveTextAR-Light'),
+        url('uber/UberMoveTextAR-Light.eot?#iefix') format('embedded-opentype'),
+        url('uber/UberMoveTextAR-Light.woff2') format('woff2'),
+        url('uber/UberMoveTextAR-Light.woff') format('woff'),
+        url('uber/UberMoveTextAR-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Uber Move Text AR';
+    src: url('uber/UberMoveTextAR-Bold.eot');
+    src: local('Uber Move Text AR Bold'), local('UberMoveTextAR-Bold'),
+        url('uber/UberMoveTextAR-Bold.eot?#iefix') format('embedded-opentype'),
+        url('uber/UberMoveTextAR-Bold.woff2') format('woff2'),
+        url('uber/UberMoveTextAR-Bold.woff') format('woff'),
+        url('uber/UberMoveTextAR-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'spotify-circular' */
+@font-face {
+    font-family: 'spotify-circular';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Book.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Book.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Book.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Bold.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Bold.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'spotify-circular';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Black.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Black.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Latin-OS2v3-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback
+}
+
+/* 'circular-spotify-arabic' */
+@font-face {
+    font-family: 'circular-spotify-arabic';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Book.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Book.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Book.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'circular-spotify-arabic';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Bold.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Bold.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'circular-spotify-arabic';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Black.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Black.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Arabic-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback
+}
+
+/* 'circular-spotify-hebrew' */
+@font-face {
+    font-family: 'circular-spotify-hebrew';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Book.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Book.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Book.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'circular-spotify-hebrew';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Bold.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Bold.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'circular-spotify-hebrew';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Black.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Black.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback
+}
+
+/* 'circular-spotify-cyrillic' */
+@font-face {
+    font-family: 'circular-spotify-cyrillic';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Book.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Hebrew-Book.woff') format('woff'),
+    url('https://open.scdn.co/fonts/CircularSpUIHbrOnly-Book.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'circular-spotify-cyrillic';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Cyrillic-Bold.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Cyrillic-Bold.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Cyrillic-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback
+}
+
+@font-face {
+    font-family: 'circular-spotify-cyrillic';
+    src: url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Cyrillic-Black.woff2') format('woff2'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Cyrillic-Black.woff') format('woff'),
+    url('https://encore.scdn.co/1.2.3/CircularSpotify-UI-Cyrillic-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback
+}
+
+/* 'MadaniArabic' */
+@font-face {
+    font-family: 'MadaniArabic';
+    src: url('madani/MadaniArabic-Bold.woff2') format('woff2'),
+        url('madani/MadaniArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MadaniArabic';
+    src: url('madani/MadaniArabic-Regular.woff2') format('woff2'),
+        url('madani/MadaniArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'Fedra Sans Arabic AR' */
+@font-face {
+    font-family:'Fedra Sans Arabic AR';
+    src:url('fedra/FedraSansArabicAR-Bld.eot');
+    src:url('fedra/FedraSansArabicAR-Bld.eot') format("embedded-opentype"),
+        url('fedra/FedraSansArabicAR-Bld.woff2') format("woff2"),
+        url('fedra/FedraSansArabicAR-Bld.woff') format("woff"),
+        url('fedra/FedraSansArabicAR-Bld.ttf') format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'Fedra Sans Arabic AR';
+    src:url('fedra/FedraSansArabicAR-Bk.eot');
+    src:url('fedra/FedraSansArabicAR-Bk.eot') format("embedded-opentype"),
+        url('fedra/FedraSansArabicAR-Bk.woff2') format("woff2"),
+        url('fedra/FedraSansArabicAR-Bk.woff') format("woff"),
+        url('fedra/FedraSansArabicAR-Bk.ttf') format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'Fedra Sans Arabic AR';
+    src:url('fedra/FedraSansArabicAR-Lt.eot');
+    src:url('fedra/FedraSansArabicAR-Lt.eot') format("embedded-opentype"),
+        url('fedra/FedraSansArabicAR-Lt.woff2') format("woff2"),
+        url('fedra/FedraSansArabicAR-Lt.woff') format("woff"),
+        url('fedra/FedraSansArabicAR-Lt.ttf') format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'Fedra Sans Arabic AR';
+    src: url('fedra/FedraSansArabicAR-Demi.eot');
+    src: url('fedra/FedraSansArabicAR-Demi.eot') format("embedded-opentype"),
+        url('fedra/FedraSansArabicAR-Demi.woff2') format("woff2"),
+        url('fedra/FedraSansArabicAR-Demi.woff') format("woff"),
+        url('fedra/FedraSansArabicAR-Demi.ttf') format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family:'Fedra Sans Arabic AR';
+    src:url('fedra/FedraSansArabicAR-Med.eot');
+    src:url('fedra/FedraSansArabicAR-Med.eot') format("embedded-opentype"),
+        url('fedra/FedraSansArabicAR-Med.woff2') format("woff2"),
+        url('fedra/FedraSansArabicAR-Med.woff') format("woff"),
+        url('fedra/FedraSansArabicAR-Med.ttf') format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'AEmbArabic' */
+@font-face {
+    font-family: 'AEmbArabic';
+    src: url('aemb/AmazonEmberArabic_W_Rg._TTW_.woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'AEmbArabic';
+    src: url('aemb/AmazonEmberArabic_W_Bd._TTW_.woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+}
+
+/* 'GHAITHSANS' */
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-Medium.eot');
+    src: url('ghaith/GHAITHSANS-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-Medium.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-Medium.woff') format('woff'),
+        url('ghaith/GHAITHSANS-Medium.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-Medium.svg#GHAITHSANS-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-Light.eot');
+    src: url('ghaith/GHAITHSANS-Light.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-Light.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-Light.woff') format('woff'),
+        url('ghaith/GHAITHSANS-Light.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-Light.svg#GHAITHSANS-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-ExtraLight.eot');
+    src: url('ghaith/GHAITHSANS-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-ExtraLight.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-ExtraLight.woff') format('woff'),
+        url('ghaith/GHAITHSANS-ExtraLight.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-ExtraLight.svg#GHAITHSANS-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-ExtraBold.eot');
+    src: url('ghaith/GHAITHSANS-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-ExtraBold.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-ExtraBold.woff') format('woff'),
+        url('ghaith/GHAITHSANS-ExtraBold.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-ExtraBold.svg#GHAITHSANS-ExtraBold') format('svg');
+    font-weight: bold, 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-Black.eot');
+    src: url('ghaith/GHAITHSANS-Black.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-Black.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-Black.woff') format('woff'),
+        url('ghaith/GHAITHSANS-Black.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-Black.svg#GHAITHSANS-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-SemiBold.eot');
+    src: url('ghaith/GHAITHSANS-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-SemiBold.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-SemiBold.woff') format('woff'),
+        url('ghaith/GHAITHSANS-SemiBold.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-SemiBold.svg#GHAITHSANS-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-Bold.eot');
+    src: url('ghaith/GHAITHSANS-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-Bold.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-Bold.woff') format('woff'),
+        url('ghaith/GHAITHSANS-Bold.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-Bold.svg#GHAITHSANS-Bold') format('svg');
+    font-weight: bold, 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-Thin.eot');
+    src: url('ghaith/GHAITHSANS-Thin.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-Thin.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-Thin.woff') format('woff'),
+        url('ghaith/GHAITHSANS-Thin.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-Thin.svg#GHAITHSANS-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GHAITHSANS';
+    src: url('ghaith/GHAITHSANS-Regular.eot');
+    src: url('ghaith/GHAITHSANS-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ghaith/GHAITHSANS-Regular.woff2') format('woff2'),
+        url('ghaith/GHAITHSANS-Regular.woff') format('woff'),
+        url('ghaith/GHAITHSANS-Regular.ttf') format('truetype'),
+        url('ghaith/GHAITHSANS-Regular.svg#GHAITHSANS-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* 'Greta Arabic' */
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic-Light.eot');
+    src: url('greta/GretaArabic-Light.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic-Light.woff2') format('woff2'),
+        url('greta/GretaArabic-Light.woff') format('woff'),
+        url('greta/GretaArabic-Light.ttf') format('truetype'),
+        url('greta/GretaArabic-Light.svg#GretaArabic-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic-Medium.eot');
+    src: url('greta/GretaArabic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic-Medium.woff2') format('woff2'),
+        url('greta/GretaArabic-Medium.woff') format('woff'),
+        url('greta/GretaArabic-Medium.ttf') format('truetype'),
+        url('greta/GretaArabic-Medium.svg#GretaArabic-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic-Bold.eot');
+    src: url('greta/GretaArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic-Bold.woff2') format('woff2'),
+        url('greta/GretaArabic-Bold.woff') format('woff'),
+        url('greta/GretaArabic-Bold.ttf') format('truetype'),
+        url('greta/GretaArabic-Bold.svg#GretaArabic-Bold') format('svg');
+    font-weight: bold, 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic-Bold_1.eot');
+    src: url('greta/GretaArabic-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic-Bold_1.woff2') format('woff2'),
+        url('greta/GretaArabic-Bold_1.woff') format('woff'),
+        url('greta/GretaArabic-Bold_1.ttf') format('truetype'),
+        url('greta/GretaArabic-Bold_1.svg#GretaArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic-Medium_1.eot');
+    src: url('greta/GretaArabic-Medium_1.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic-Medium_1.woff2') format('woff2'),
+        url('greta/GretaArabic-Medium_1.woff') format('woff'),
+        url('greta/GretaArabic-Medium_1.ttf') format('truetype'),
+        url('greta/GretaArabic-Medium_1.svg#GretaArabic-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic-Light_1.eot');
+    src: url('greta/GretaArabic-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic-Light_1.woff2') format('woff2'),
+        url('greta/GretaArabic-Light_1.woff') format('woff'),
+        url('greta/GretaArabic-Light_1.ttf') format('truetype'),
+        url('greta/GretaArabic-Light_1.svg#GretaArabic-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Greta Arabic';
+    src: url('greta/GretaArabic.eot');
+    src: url('greta/GretaArabic.eot?#iefix') format('embedded-opentype'),
+        url('greta/GretaArabic.woff2') format('woff2'),
+        url('greta/GretaArabic.woff') format('woff'),
+        url('greta/GretaArabic.ttf') format('truetype'),
+        url('greta/GretaArabic.svg#GretaArabic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

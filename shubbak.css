@@ -1,0 +1,49 @@
+/* 'Shubbak' */
+@font-face {
+    font-family: 'Shubbak';
+    src: url('shubbak/Shubbak-Bold.eot');
+    src: url('shubbak/Shubbak-Bold.eot?#iefix') format('embedded-opentype'),
+        url('shubbak/Shubbak-Bold.woff2') format('woff2'),
+        url('shubbak/Shubbak-Bold.woff') format('woff'),
+        url('shubbak/Shubbak-Bold.svg#Shubbak-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shubbak';
+    src: url('shubbak/Shubbak-Regular.eot');
+    src: url('shubbak/Shubbak-Regular.eot?#iefix') format('embedded-opentype'),
+        url('shubbak/Shubbak-Regular.woff2') format('woff2'),
+        url('shubbak/Shubbak-Regular.woff') format('woff'),
+        url('shubbak/Shubbak-Regular.svg#Shubbak-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: __arabicFont_ab9b5a;
+    src: url(shubbak/02306de79984aaf1-s.p.otf) format("opentype");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: __arabicFont_ab9b5a;
+    src: url(shubbak/e2cb776cf5672223-s.p.otf) format("opentype");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: __arabicFont_Fallback_ab9b5a;
+    src: local("Arial");
+    ascent-override:106.39%;descent-override:30.31%;line-gap-override:0.00%;size-adjust:97.94%}
+
+.body {
+    font-family: __arabicFont_ab9b5a,__arabicFont_Fallback_ab9b5a;
+}
