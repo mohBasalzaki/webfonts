@@ -710,7 +710,7 @@
 }
 
 @font-face {
-    font-family: 'Ping';
+    font-family: 'Ping AR + LT';
     src: url('ping/PingARLT-Regular.eot');
     src: url('ping/PingARLT-Regular.eot?#iefix') format('embedded-opentype'),
         url('ping/PingARLT-Regular.woff2') format('woff2'),
@@ -723,7 +723,7 @@
 }
 
 @font-face {
-    font-family: 'Ping';
+    font-family: 'Ping AR + LT';
     src: url('ping/PingARLT-Thin.eot');
     src: url('ping/PingARLT-Thin.eot?#iefix') format('embedded-opentype'),
         url('ping/PingARLT-Thin.woff2') format('woff2'),
