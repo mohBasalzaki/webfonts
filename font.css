@@ -708,3 +708,29 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Ping';
+    src: url('ping/PingARLT-Regular.eot');
+    src: url('ping/PingARLT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ping/PingARLT-Regular.woff2') format('woff2'),
+        url('ping/PingARLT-Regular.woff') format('woff'),
+        url('ping/PingARLT-Regular.ttf') format('truetype'),
+        url('ping/PingARLT-Regular.svg#PingAR+LT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ping';
+    src: url('ping/PingARLT-Thin.eot');
+    src: url('ping/PingARLT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('ping/PingARLT-Thin.woff2') format('woff2'),
+        url('ping/PingARLT-Thin.woff') format('woff'),
+        url('ping/PingARLT-Thin.ttf') format('truetype'),
+        url('ping/PingARLT-Thin.svg#PingAR+LT-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
