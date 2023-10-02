@@ -734,3 +734,42 @@
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: "Ejaabat";
+    font-weight: normal;
+    src: url("ejaabat/Ejaabat.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ejaabat";
+    font-weight: bold;
+    src: url("ejaabat/EjaabatBold.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* Juman */
+@font-face {
+    font-family: 'Juman';
+    src: url('juman/Juman-Normal.eot');
+    src: url('juman/Juman-Normal.eot?#iefix') format('embedded-opentype'),
+        url('juman/Juman-Normal.woff2') format('woff2'),
+        url('juman/Juman-Normal.woff') format('woff'),
+        url('juman/Juman-Normal.svg#Juman-Normal') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Juman';
+    src: url('juman/Juman-SemiBold.eot');
+    src: url('juman/Juman-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('juman/Juman-SemiBold.woff2') format('woff2'),
+        url('juman/Juman-SemiBold.woff') format('woff'),
+        url('juman/Juman-SemiBold.svg#Juman-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
