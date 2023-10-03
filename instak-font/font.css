@@ -1,0 +1,84 @@
+/* H1 */
+@font-face {
+    font-family: 'NaN Metrify Arabic C Standard ExBd';
+    src: url('NaNMetrifyArCStd-ExBld.eot');
+    src: url('NaNMetrifyArCStd-ExBld.eot?#iefix') format('embedded-opentype'),
+        url('NaNMetrifyArCStd-ExBld.woff2') format('woff2'),
+        url('NaNMetrifyArCStd-ExBld.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+H1 {
+    font-family: 'NaN Metrify Arabic C Standard ExBd',sans-serif !important;
+    font-weight: bold !important;
+}
+
+/* H2 */
+@font-face {
+    font-family: 'NaN Metrify Arabic C Standard';
+    src: url('NaNMetrifyArCStd-Bld.eot');
+    src: url('NaNMetrifyArCStd-Bld.eot?#iefix') format('embedded-opentype'),
+        url('NaNMetrifyArCStd-Bld.woff2') format('woff2'),
+        url('NaNMetrifyArCStd-Bld.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+H2 {
+    font-family: 'NaN Metrify Arabic C Standard',sans-serif !important;
+    font-weight: bold !important;
+}
+
+/* H3 */
+@font-face {
+    font-family: 'NaN Metrify Arabic C Standard';
+    src: url('NaNMetrifyArCStd-Med.eot');
+    src: url('NaNMetrifyArCStd-Med.eot?#iefix') format('embedded-opentype'),
+        url('NaNMetrifyArCStd-Med.woff2') format('woff2'),
+        url('NaNMetrifyArCStd-Med.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+H3 {
+    font-family: 'NaN Metrify Arabic C Standard',sans-serif !important;
+    font-weight: 500 !important;
+}
+
+/* H4, H5, H6 */
+@font-face {
+    font-family: 'NaN Metrify Arabic C Standard';
+    src: url('NaNMetrifyArCStd-Reg.eot');
+    src: url('NaNMetrifyArCStd-Reg.eot?#iefix') format('embedded-opentype'),
+        url('NaNMetrifyArCStd-Reg.woff2') format('woff2'),
+        url('NaNMetrifyArCStd-Reg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+H4, H5, H6 {
+    font-family: 'NaN Metrify Arabic C Standard',sans-serif !important;
+    font-weight: normal !important;
+}
+
+/* P */
+@font-face {
+    font-family: 'NaN Metrify Arabic C Standard';
+    src: url('NaNMetrifyArCStd-Light.eot');
+    src: url('NaNMetrifyArCStd-Light.eot?#iefix') format('embedded-opentype'),
+        url('NaNMetrifyArCStd-Light.woff2') format('woff2'),
+        url('NaNMetrifyArCStd-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+p {
+    font-family: 'NaN Metrify Arabic C Standard',sans-serif !important;
+    font-weight: 300 !important;
+}
