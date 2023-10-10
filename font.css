@@ -846,3 +846,31 @@
     font-style: normal;
     font-display: swap;
 }
+
+/* 'Forma DJR Arabic Text' */
+@font-face {
+    font-family: 'Forma DJR Arabic Text';
+    src: url('forma/FormaDJRArabicText-Regular.woff2') format('woff2'),
+        url('forma/FormaDJRArabicText-Regular.woff') format('woff');
+    font-weight: 300, 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Forma DJR Arabic Text';
+    src: url('forma/FormaDJRArabicText-Medium.woff2') format('woff2'),
+        url('forma/FormaDJRArabicText-Medium.woff') format('woff');
+    font-weight: 500, 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Forma DJR Arabic Text';
+    src: url('forma/FormaDJRArabicText-Bold.woff2') format('woff2'),
+        url('forma/FormaDJRArabicText-Bold.woff') format('woff');
+    font-weight: bold, 700;
+    font-style: normal;
+    font-display: swap;
+}
