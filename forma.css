@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Forma DJR Arabic Text';
+    src: url('forma/Forma-Djr-Arabic-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Forma DJR Arabic Text';
+    src: url('forma/Forma-Djr-Arabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Forma DJR Arabic Text';
+    src: url('forma/Forma-Djr-Arabic-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
