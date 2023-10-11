@@ -12,9 +12,17 @@
     font-style: normal;
 }
 
+h3, h4, h5, h6 {
+    font-weight: 500 !important;
+}
+
 @font-face {
     font-family: 'Forma DJR Arabic Text';
     src: url('forma/Forma-Djr-Arabic-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
+}
+
+h1, h2 {
+    font-weight: 700 !important;
 }
