@@ -713,7 +713,7 @@
     font-family: 'Ping AR + LT';
     src: url('PingARLT-Thin.woff2') format('woff2'),
         url('PingARLT-Thin.woff') format('woff');
-    font-weight: 100, 200;
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
@@ -722,7 +722,7 @@
     font-family: 'Ping AR + LT';
     src: url('PingARLT-Regular.woff2') format('woff2'),
         url('PingARLT-Regular.woff') format('woff');
-    font-weight: 300, 400;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
@@ -731,7 +731,7 @@
     font-family: 'Ping AR + LT';
     src: url('PingARLT-Medium.woff2') format('woff2'),
         url('PingARLT-Medium.woff') format('woff');
-    font-weight: 500, 600;
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
@@ -749,7 +749,7 @@
     font-family: 'Ping AR + LT';
     src: url('PingARLT-Heavy.woff2') format('woff2'),
         url('PingARLT-Heavy.woff') format('woff');
-    font-weight: 800, 900;
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
