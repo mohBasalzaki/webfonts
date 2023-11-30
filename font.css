@@ -709,28 +709,47 @@
     font-display: swap;
 }
 
+/* 'Ping AR + LT' */
 @font-face {
     font-family: 'Ping AR + LT';
-    src: url('PingARLT-Thin.woff2') format('woff2'),
-        url('PingARLT-Thin.woff') format('woff');
-    font-weight: 100;
+    src: url('ping/PingARLT-Heavy.woff2') format('woff2'),
+        url('ping/PingARLT-Heavy.woff') format('woff');
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Ping AR + LT';
-    src: url('PingARLT-Regular.woff2') format('woff2'),
-        url('PingARLT-Regular.woff') format('woff');
-    font-weight: 400;
+    src: url('ping/PingARLT-Black.woff2') format('woff2'),
+        url('ping/PingARLT-Black.woff') format('woff');
+    font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Ping AR + LT';
-    src: url('PingARLT-Medium.woff2') format('woff2'),
-        url('PingARLT-Medium.woff') format('woff');
+    src: url('ping/PingARLT-Regular.woff2') format('woff2'),
+        url('ping/PingARLT-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ping AR + LT';
+    src: url('ping/PingARLT-Bold.woff2') format('woff2'),
+        url('ping/PingARLT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ping AR + LT';
+    src: url('ping/PingARLT-Medium.woff2') format('woff2'),
+        url('ping/PingARLT-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -738,18 +757,9 @@
 
 @font-face {
     font-family: 'Ping AR + LT';
-    src: url('PingARLT-Bold.woff2') format('woff2'),
-        url('PingARLT-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Ping AR + LT';
-    src: url('PingARLT-Heavy.woff2') format('woff2'),
-        url('PingARLT-Heavy.woff') format('woff');
-    font-weight: 800;
+    src: url('ping/PingARLT-Thin.woff2') format('woff2'),
+        url('ping/PingARLT-Thin.woff') format('woff');
+    font-weight: 100;
     font-style: normal;
     font-display: swap;
 }
