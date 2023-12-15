@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Jaez';
+    src: url('jaez/Jaez-Text.woff2') format('woff2'),
+        url('jaez/Jaez-Text.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Jaez';
+    src: url('jaez/Jaez-Bold.woff2') format('woff2'),
+        url('jaez/Jaez-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
