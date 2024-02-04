@@ -910,30 +910,11 @@
 
 /* 'DG Agnadeen Extra' */
 @font-face {
-    font-family: 'DG Agnadeen Extra';
-    src: url('agnadeen/DGAgnadeen-Extrabold.woff2') format('woff2'),
-        url('agnadeen/DGAgnadeen-Extrabold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'DG Agnadeen';
-    src: url('agnadeen/DGAgnadeen-Bold.woff2') format('woff2'),
-        url('agnadeen/DGAgnadeen-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
     font-family: 'DG Agnadeen';
     src: url('agnadeen/DGAgnadeen-Thin.woff2') format('woff2'),
         url('agnadeen/DGAgnadeen-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
@@ -942,25 +923,6 @@
         url('agnadeen/DGAgnadeen-Ultralight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'DG Agnadeen';
-    src: url('agnadeen/DGAgnadeen-Heavy.woff2') format('woff2'),
-        url('agnadeen/DGAgnadeen-Heavy.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'DG Agnadeen';
-    src: url('agnadeen/DGAgnadeen.woff2') format('woff2'),
-        url('agnadeen/DGAgnadeen.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
@@ -969,5 +931,36 @@
         url('agnadeen/DGAgnadeen-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
-    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DG Agnadeen';
+    src: url('agnadeen/DGAgnadeen.woff2') format('woff2'),
+        url('agnadeen/DGAgnadeen.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DG Agnadeen';
+    src: url('agnadeen/DGAgnadeen-Bold.woff2') format('woff2'),
+        url('agnadeen/DGAgnadeen-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DG Agnadeen Extra';
+    src: url('agnadeen/DGAgnadeen-Extrabold.woff2') format('woff2'),
+        url('agnadeen/DGAgnadeen-Extrabold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DG Agnadeen';
+    src: url('agnadeen/DGAgnadeen-Heavy.woff2') format('woff2'),
+        url('agnadeen/DGAgnadeen-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
 }
