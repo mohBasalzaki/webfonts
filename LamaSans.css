@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-Thin.woff2') format('woff2'),
+        url('font/LamaSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-ThinItalic.woff2') format('woff2'),
+        url('font/LamaSans-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-ExtraLight.woff2') format('woff2'),
+        url('font/LamaSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-ExtraLightItalic.woff2') format('woff2'),
+        url('font/LamaSans-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-Light.woff2') format('woff2'),
+        url('font/LamaSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-LightItalic.woff2') format('woff2'),
+        url('font/LamaSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-Regular.woff2') format('woff2'),
+        url('font/LamaSans-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-RegularItalic.woff2') format('woff2'),
+        url('font/LamaSans-RegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-Medium.woff2') format('woff2'),
+        url('font/LamaSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-MediumItalic.woff2') format('woff2'),
+        url('font/LamaSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-SemiBold.woff2') format('woff2'),
+        url('font/LamaSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-SemiBoldItalic.woff2') format('woff2'),
+        url('font/LamaSans-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-Bold.woff2') format('woff2'),
+        url('font/LamaSans-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-BoldItalic.woff2') format('woff2'),
+        url('font/LamaSans-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-ExtraBold.woff2') format('woff2'),
+        url('font/LamaSans-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('font/LamaSans-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-Black.woff2') format('woff2'),
+        url('font/LamaSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lama Sans';
+    src: url('font/LamaSans-BlackItalic.woff2') format('woff2'),
+        url('font/LamaSans-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
