@@ -46,8 +46,8 @@
 
 @font-face {
     font-family: 'DIN Next LT Arabic';
-    src: url('din/DINNextLTArabic-Black.woff2') format('woff2'),
-        url('din/DINNextLTArabic-Black.woff') format('woff');
+    src: url('din/DINNextLTArabic-Heavy.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Heavy.woff') format('woff');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -55,8 +55,8 @@
 
 @font-face {
     font-family: 'DIN Next LT Arabic';
-    src: url('din/DINNextLTArabic-Heavy.woff2') format('woff2'),
-        url('din/DINNextLTArabic-Heavy.woff') format('woff');
+    src: url('din/DINNextLTArabic-Black.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
