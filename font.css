@@ -1,3 +1,67 @@
+/* 'DIN Next LT Arabic' */
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-UltraLight.woff2') format('woff2'),
+        url('din/DINNextLTArabic-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-Light.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-Regular.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-Medium.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-Bold.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-Black.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Next LT Arabic';
+    src: url('din/DINNextLTArabic-Heavy.woff2') format('woff2'),
+        url('din/DINNextLTArabic-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* 'TheSans' */
 @font-face {
     font-family: 'TheSans';
@@ -6,16 +70,16 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-  }
+}
   
-  @font-face {
+@font-face {
     font-family: 'TheSans';
     src: url('thesans/TheSans-Bold.woff2') format('woff2'),
         url('thesans/TheSans-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
-  }
+}
 
 /* 'Graphik Arabic' */
 @font-face {
@@ -982,149 +1046,4 @@
         url('agnadeen/DGAgnadeen-Heavy.woff') format('woff');
     font-weight: 900;
     font-style: normal;
-}
-
-/* 'Lama Sans' */
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-Thin.woff2') format('woff2'),
-        url('LamaSans/LamaSans-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-ThinItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-ThinItalic.woff') format('woff');
-    font-weight: 100;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-ExtraLight.woff2') format('woff2'),
-        url('LamaSans/LamaSans-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-ExtraLightItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-ExtraLightItalic.woff') format('woff');
-    font-weight: 200;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-Light.woff2') format('woff2'),
-        url('LamaSans/LamaSans-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-LightItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-LightItalic.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-Regular.woff2') format('woff2'),
-        url('LamaSans/LamaSans-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-RegularItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-RegularItalic.woff') format('woff');
-    font-weight: 400;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-Medium.woff2') format('woff2'),
-        url('LamaSans/LamaSans-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-MediumItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-MediumItalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-SemiBold.woff2') format('woff2'),
-        url('LamaSans/LamaSans-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-SemiBoldItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-SemiBoldItalic.woff') format('woff');
-    font-weight: 600;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-Bold.woff2') format('woff2'),
-        url('LamaSans/LamaSans-Bold.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-BoldItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-BoldItalic.woff') format('woff');
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-ExtraBold.woff2') format('woff2'),
-        url('LamaSans/LamaSans-ExtraBold.woff') format('woff');
-    font-weight: 800;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-ExtraBoldItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-ExtraBoldItalic.woff') format('woff');
-    font-weight: 800;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-Black.woff2') format('woff2'),
-        url('LamaSans/LamaSans-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Lama Sans';
-    src: url('LamaSans/LamaSans-BlackItalic.woff2') format('woff2'),
-        url('LamaSans/LamaSans-BlackItalic.woff') format('woff');
-    font-weight: 900;
-    font-style: italic;
 }
