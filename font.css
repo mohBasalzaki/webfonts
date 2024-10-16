@@ -1,3 +1,22 @@
+/* 'Careem' */
+@font-face {
+    font-family: 'Careem';
+    src: url('careem/Careem-Regular.woff2') format('woff2'),
+        url('careem/Careem-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Careem';
+    src: url('careem/Careem-Bold.woff2') format('woff2'),
+        url('careem/Careem-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* 'DIN Next LT Arabic' */
 @font-face {
     font-family: 'DIN Next LT Arabic';
