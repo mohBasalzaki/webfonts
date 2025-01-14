@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'ITC';
+    src: url('itc/ITCHandelGothicArabic-Light.woff2') format('woff2'),
+        url('itc/ITCHandelGothicArabic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC';
+    src: url('itc/ITCHandelGothicArabicRegular.woff2') format('woff2'),
+        url('itc/ITCHandelGothicArabicRegular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC';
+    src: url('itc/ITCHandelGothicArabic-Md.woff2') format('woff2'),
+        url('itc/ITCHandelGothicArabic-Md.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC';
+    src: url('itc/ITCHandelGothicArabic-Bold.woff2') format('woff2'),
+        url('itc/ITCHandelGothicArabic-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC';
+    src: url('itc/ITCHandelGothicArabicHeavy.woff2') format('woff2'),
+        url('itc/ITCHandelGothicArabicHeavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
